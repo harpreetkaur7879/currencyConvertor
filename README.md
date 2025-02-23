@@ -13,4 +13,4 @@ Axios - For making API requests.
 
  Contributing
 Feel free to fork this repository and submit a pull request. If you find any issues or have suggestions for improvements, feel free to open an issue in the Issues tab.
-![My Image](https://github.com/harpreetkaur7879/currencyConverto/blob/main/snapshot.png)
+![My Image](https://github.com/harpreetkaur7879/currencyConvertor/blob/main/snapshot.png)
